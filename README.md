@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/736x/6d/1d/44/6d1d44b9236c5d26d538f54046972b61.jpg" width="100%" border-radius="70%" alt="Developer Wallpaper" width="100%" height="60%"/>
+  <img src="https://i.pinimg.com/736x/6d/1d/44/6d1d44b9236c5d26d538f54046972b61.jpg" width="100%" height="50%" style="border-radius: 70%;" alt="Developer Wallpaper" />
   
   <br/>
   

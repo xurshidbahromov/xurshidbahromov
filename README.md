@@ -1,5 +1,4 @@
-<div align="center">
-  <img src="https://i.pinimg.com/736x/6d/1d/44/6d1d44b9236c5d26d538f54046972b61.jpg" width="100%" height="60%" style="border-radius: 60%;" alt="Developer Wallpaper" />
+  <img src="https://i.pinimg.com/736x/6d/1d/44/6d1d44b9236c5d26d538f54046972b61.jpg" width="100%" alt="Developer Wallpaper" />
   
   <br/>
   

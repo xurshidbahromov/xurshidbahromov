@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/736x/6d/1d/44/6d1d44b9236c5d26d538f54046972b61.jpg" width="100%" alt="Developer Wallpaper" />
+  <img src="https://i.pinimg.com/1200x/12/25/16/122516442a5bb71e6327bdb5c271beb0.jpg" width="100%" alt="Developer Wallpaper" />
   
   <br/>
   

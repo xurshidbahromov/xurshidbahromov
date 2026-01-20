@@ -32,7 +32,7 @@ Passionate about creating scalable applications that leverage machine learning t
 
 <div align="center">
   <h4>Frontend & Design</h4>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,ts,js,tailwind,html,css,reactquery,zustand,figma,vite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,ts,js,tailwind,html,css,figma,vite&theme=dark" />
   <br/><br/>
   <h4>Backend & AI/ML</h4>
   <img src="https://skillicons.dev/icons?i=py,fastapi,nodejs,express,mongodb,postgres,pytorch,tensorflow,docker,aws,git&theme=dark" />

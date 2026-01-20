@@ -42,47 +42,6 @@ Passionate about creating scalable applications that leverage machine learning t
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="25" /> Featured Projects
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <b>🎵 Viberr</b><br/>
-        <i>Streaming App</i><br/>
-        <a href="https://github.com/xurshidbek-bahromov/viberr">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=xurshidbek-bahromov&repo=viberr&theme=vision-friendly-dark&hide_border=true" />
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <b>🍔 Fresh Burger</b><br/>
-        <i>Restaurant Platform</i><br/>
-        <a href="https://github.com/xurshidbek-bahromov/fresh-burger">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=xurshidbek-bahromov&repo=fresh-burger&theme=vision-friendly-dark&hide_border=true" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <b>👓 Hipsster</b><br/>
-        <i>Glasses Shop</i><br/>
-        <a href="https://github.com/xurshidbek-bahromov/hipsster">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=xurshidbek-bahromov&repo=hipsster&theme=vision-friendly-dark&hide_border=true" />
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <b>🏋️ FitLift</b><br/>
-        <i>Fitness App</i><br/>
-        <a href="https://github.com/xurshidbek-bahromov/fitlift">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=xurshidbek-bahromov&repo=fitlift&theme=vision-friendly-dark&hide_border=true" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png" width="25" /> GitHub Analytics
 
 <div align="center">

@@ -21,7 +21,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="25" /> The Mission
+### <img src="https://i.pinimg.com/736x/6d/1d/44/6d1d44b9236c5d26d538f54046972b61.jpg" width="25" /> The Mission
 Passionate about creating scalable applications that leverage machine learning to solve real-world problems. I bridge the gap between heavy-duty AI models and seamless user experiences.
 
 - 🛠️ **Current Focus:** Deep Learning Architectures & Modern Web Apps

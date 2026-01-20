@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://capsule-render.vercel.app/render?type=kuma&color=00d4ff&height=250&section=header&text=Xurshidbek%20Bahromov&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20|%20AI%20ML%20Engineer&descSize=20&descAlignY=60](https://i.pinimg.com/736x/6d/1d/44/6d1d44b9236c5d26d538f54046972b61.jpg)" width="100%" />
+  <img src="https://i.pinimg.com/736x/6d/1d/44/6d1d44b9236c5d26d538f54046972b61.jpg" width="100%" />
   
   <br/>
   

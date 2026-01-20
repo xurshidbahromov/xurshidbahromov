@@ -1,13 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=00d4ff&height=250&section=header&text=Xurshidbek%20Bahromov&fontSize=70&animation=fadeIn&fontAlignY=35&desc=AI%20ML%20Engineer%20|%20Full%20Stack%20Developer&descSize=20&descAlignY=60" width="100%" />
-</div>
-
-<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=kuma&color=00d4ff&height=250&section=header&text=Xurshidbek%20Bahromov&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20|%20AI%20ML%20Engineer&descSize=20&descAlignY=60" width="100%" />
+  
   <br/>
-  <h1>👋 Hey there, I'm Xurshidbek</h1>
-  <p><i>Building intelligent software solutions at the intersection of AI/ML and modern web development.</i></p>
+  
+  <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" /> Hey there, I'm Xurshidbek</h1>
+  
+  <p align="center">
+    <i>Building intelligent software solutions at the intersection of AI/ML and modern web development.</i>
+  </p>
 
-  <p>
+  <p align="center">
     <a href="https://github.com/xurshidbek-bahromov">
       <img src="https://img.shields.io/github/followers/xurshidbek-bahromov?label=Follow&style=for-the-badge&color=24292e&logo=github" />
     </a>
@@ -19,7 +21,7 @@
 
 ---
 
-### 🚀 The Mission
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="25" /> The Mission
 Passionate about creating scalable applications that leverage machine learning to solve real-world problems. I bridge the gap between heavy-duty AI models and seamless user experiences.
 
 - 🛠️ **Current Focus:** Deep Learning Architectures & Modern Web Apps
@@ -28,15 +30,19 @@ Passionate about creating scalable applications that leverage machine learning t
 
 ---
 
-### 💻 Tech Ecosystem
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="25" /> Tech Ecosystem
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,html,css,figma,vite,py,fastapi,nodejs,express,mongodb,postgres,pytorch,tensorflow,docker,aws,git&theme=dark" />
+  <h4>Frontend & Design</h4>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,html,css,figma,vite&theme=dark" />
+  <br/><br/>
+  <h4>Backend & AI/ML</h4>
+  <img src="https://skillicons.dev/icons?i=py,fastapi,nodejs,express,mongodb,postgres,pytorch,tensorflow,docker,aws,git&theme=dark" />
 </div>
 
 ---
 
-### 📊 GitHub Analytics
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png" width="25" /> GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xurshidbek-bahromov&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117" width="48%" />
@@ -51,7 +57,7 @@ Passionate about creating scalable applications that leverage machine learning t
 
 ---
 
-### 📩 Get In Touch
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" width="25" /> Get In Touch
 
 <div align="center">
   <a href="mailto:xurshid.bahromov@gmail.com">

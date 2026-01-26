@@ -1,7 +1,4 @@
 <div align="center">
-  <img src="https://i.pinimg.com/1200x/1b/1b/73/1b1b73143d5c509c4c60089337bd507f.jpg" width="100%" alt="Developer Wallpaper" />
-  
-  <br/>
   
   <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" /> Hey there, I'm Xurshidbek</h1>
   

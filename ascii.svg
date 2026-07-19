@@ -1,63 +1,110 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 475 730">
-<rect width="475" height="730" fill="#0d1117"/>
-<g font-family="'Courier New',Courier,monospace" font-size="9" fill="#c9d1d9">
-<text x="5" y="10" xml:space="preserve"> </text>
-<text x="5" y="22" xml:space="preserve"> </text>
-<text x="5" y="34" xml:space="preserve">  ........................................#................-##+.-..+-..-######  </text>
-<text x="5" y="46" xml:space="preserve">  .+++++++++++++++++++++++++++++##++++#+..#+.----.-.+++####+-...#+.###....--..  </text>
-<text x="5" y="58" xml:space="preserve">  .+++++++++++++++++++++++++++++##++++##..#+.-+-++--###+-.-+#.#+...###.-----#.  </text>
-<text x="5" y="70" xml:space="preserve">  .+++++++++++++++++++++++++++++##+++++...#+..+-+---+--+#######+.-.###.---+.-.  </text>
-<text x="5" y="82" xml:space="preserve">  .++++++++++++++++++++++++++++++#+++++####+.-------######+-.-...-.###.----.+.  </text>
-<text x="5" y="94" xml:space="preserve">  .+++++++++++++++++++++++++++++##++++++#+#+.-.---........-+++-..-.###.--.##--  </text>
-<text x="5" y="106" xml:space="preserve">  .++++++++++++++++++++++++++++++#++++++#+#+.---+-.-#+++---...+#...###.----###  </text>
-<text x="5" y="118" xml:space="preserve">  .++++++++++++++++++++++++++++++#+++++#####.----+-+#.-.++++++##...###.--###..  </text>
-<text x="5" y="130" xml:space="preserve">  .++++++++++++++++++++++++++++++#++++#+..##.------++------++#..-#.###.-.-..-.  </text>
-<text x="5" y="142" xml:space="preserve">  .++++++++++++++++++++++++++++++#++++##..##.--------+#########+...###.--+..+.  </text>
-<text x="5" y="154" xml:space="preserve">  .++++++++++++++++++++++++++++++#++++##..##..--++####+------...##.###.--+..+.  </text>
-<text x="5" y="166" xml:space="preserve">  .++++-+++++++++++++++++++++++++#++++##..##.----.-....-----++#+...###.--+-.-.  </text>
-<text x="5" y="178" xml:space="preserve">  .++++++++++++++++++++++++++++++++##++-..+#..-.----+##++######-...###.---+.+.  </text>
-<text x="5" y="190" xml:space="preserve">  .++++-++++++++++++++++++++----+###.+#####+.....########.+...-..#.###..--+.+.  </text>
-<text x="5" y="202" xml:space="preserve">  .+++++++++++++++++++++++--######+-######++###..+....########-..-.###..--+.+.  </text>
-<text x="5" y="214" xml:space="preserve">  .++++++++++++++++++++++-+#####################-######.......####.###.---#.#-  </text>
-<text x="5" y="226" xml:space="preserve">  .+++++++++++++++++++++-#########-.......######+....+########+++..###.-.-#...  </text>
-<text x="5" y="238" xml:space="preserve">  .+++++++++++++++++++++######..............#####-+##--.....-+++-..###-+-.-...  </text>
-<text x="5" y="250" xml:space="preserve">  .+++++++++++++++++++++####-.................####.--#+-+####+.....-#.......+.  </text>
-<text x="5" y="262" xml:space="preserve">  .++++++++++++++++++++-###+..####-..-.-####+.####.+..........-###############  </text>
-<text x="5" y="274" xml:space="preserve">  .++++++#++++++++++++++###+-#...###--###-..+.-###.-+########################.  </text>
-<text x="5" y="286" xml:space="preserve">  .++++++++++++++++++++++##+-####+++..---####.-################+..............  </text>
-<text x="5" y="298" xml:space="preserve">  .+++++++++++++++++++++++##.......-..--.......#-######+........+###########+.  </text>
-<text x="5" y="310" xml:space="preserve">  .++++++#+++++++++++++++-.#-.------...------.+#.#######..######+-........-+##  </text>
-<text x="5" y="322" xml:space="preserve">  .++++++#+++++++++++++++#++#----.+#####.-----#.########-...+#-+#############-  </text>
-<text x="5" y="334" xml:space="preserve">  .++++++#+++++++++++++++##.++---.........---+#++......#-.--.+#####+..........  </text>
-<text x="5" y="346" xml:space="preserve">  .++++++#++++++++++++++++###+-.-+#######+-.-#.........#+.---+#...-+########+.  </text>
-<text x="5" y="358" xml:space="preserve">  .++++++#++++++++++++++++++##-----####+---+#...+----..#+.-++#+-+-..........-.  </text>
-<text x="5" y="370" xml:space="preserve">  .++++++#++++++++++++++++++++##-.........+#-##.+.---..##.---+#.--+######-#-+.  </text>
-<text x="5" y="382" xml:space="preserve">  .++++++#+++++++++++++++++++##-+##+++#####+###.-.-....##.---+--++--.----++++.  </text>
-<text x="5" y="394" xml:space="preserve">  .++++++#+++++++++++++++++####################........##..--++#+.......-++++.  </text>
-<text x="5" y="406" xml:space="preserve">  .++++++#+++++++++++++++###################+####......##.---++++--+-.........  </text>
-<text x="5" y="418" xml:space="preserve">  .++++++#+++++++++++++###################++############+...-++---+-.......--.  </text>
-<text x="5" y="430" xml:space="preserve">  .++++++#+++++++######++++++#############################+...--++#+-++++++++.  </text>
-<text x="5" y="442" xml:space="preserve">  .++++++#++++##############+#++######++##++###################..--------.....  </text>
-<text x="5" y="454" xml:space="preserve">  .+++++###+###++++######+++#++++++++#####+++++##+########+++###+.............  </text>
-<text x="5" y="466" xml:space="preserve">  .++++++###+##++#+#############++++++++++###+++++######++##+################+  </text>
-<text x="5" y="478" xml:space="preserve">  .+++#+###++##++#+##++#++#++#++#################+##########+#+++##........--.  </text>
-<text x="5" y="490" xml:space="preserve">  .+#++++++++##++#+#####++###+##++########+++##++++++##+#++++++##+##..........  </text>
-<text x="5" y="502" xml:space="preserve">  .++++####+++####+++#++#+##+#############+#+##+++++++++#+####################  </text>
-<text x="5" y="514" xml:space="preserve">  -#####++##+++###++++#+##++##+#+############+##++#+++###+++##+##++##.......-.  </text>
-<text x="5" y="526" xml:space="preserve">  -###+##++###++#+###+#######++++###+####++#######+####+++++#####+####........  </text>
-<text x="5" y="538" xml:space="preserve">  -#######+####+#+#####+#++++##########+#++##++#+##########+#+##+##+###+++++-.  </text>
-<text x="5" y="550" xml:space="preserve">  -###++++#+#########+#++++##########+########+##########++##+#++#++####-+###-  </text>
-<text x="5" y="562" xml:space="preserve">  -###+###+++#######++########++####################+########+#+##+#####---...  </text>
-<text x="5" y="574" xml:space="preserve">  -#+##+##+++#++########################+#####################+####+##+######-  </text>
-<text x="5" y="586" xml:space="preserve">  .+++++++####+##################++++++###+#####+############++##+#####+######  </text>
-<text x="5" y="598" xml:space="preserve">  -########-######################++#########################+####+##+####-...  </text>
-<text x="5" y="610" xml:space="preserve">  +++################+++++##################################+####++++++####+-.  </text>
-<text x="5" y="622" xml:space="preserve">  .++++----+###########+++++++++###########################++###++++#########+  </text>
-<text x="5" y="634" xml:space="preserve">  +######################++++###+++#########################++++++++++###+##-.  </text>
-<text x="5" y="646" xml:space="preserve">  +####+--++###-++###########+++###++++++####################++++######+++##..  </text>
-<text x="5" y="658" xml:space="preserve">  .+#####+######+++++###########+####+++++++########################+++###+#-.  </text>
-<text x="5" y="670" xml:space="preserve">  .+--+#########+---...--.......-..-------....------++++++#++##+-...----+###-.  </text>
-<text x="5" y="682" xml:space="preserve"> </text>
-<text x="5" y="694" xml:space="preserve"> </text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 730">
+<rect width="920" height="730" fill="#0d1117" rx="6"/>
+<line x1="447" y1="12" x2="447" y2="718" stroke="#484f58" stroke-width="1"/>
+<g font-family="'Courier New',Courier,monospace" font-size="8.8" fill="#8b949e">
+<text x="6" y="16" xml:space="preserve"> </text>
+<text x="6" y="28" xml:space="preserve"> </text>
+<text x="6" y="40" xml:space="preserve">  ........................................#................-##+.-..+-..-######  </text>
+<text x="6" y="52" xml:space="preserve">  .+++++++++++++++++++++++++++++##++++#+..#+.----.-.+++####+-...#+.###....--..  </text>
+<text x="6" y="64" xml:space="preserve">  .+++++++++++++++++++++++++++++##++++##..#+.-+-++--###+-.-+#.#+...###.-----#.  </text>
+<text x="6" y="76" xml:space="preserve">  .+++++++++++++++++++++++++++++##+++++...#+..+-+---+--+#######+.-.###.---+.-.  </text>
+<text x="6" y="88" xml:space="preserve">  .++++++++++++++++++++++++++++++#+++++####+.-------######+-.-...-.###.----.+.  </text>
+<text x="6" y="100" xml:space="preserve">  .+++++++++++++++++++++++++++++##++++++#+#+.-.---........-+++-..-.###.--.##--  </text>
+<text x="6" y="112" xml:space="preserve">  .++++++++++++++++++++++++++++++#++++++#+#+.---+-.-#+++---...+#...###.----###  </text>
+<text x="6" y="124" xml:space="preserve">  .++++++++++++++++++++++++++++++#+++++#####.----+-+#.-.++++++##...###.--###..  </text>
+<text x="6" y="136" xml:space="preserve">  .++++++++++++++++++++++++++++++#++++#+..##.------++------++#..-#.###.-.-..-.  </text>
+<text x="6" y="148" xml:space="preserve">  .++++++++++++++++++++++++++++++#++++##..##.--------+#########+...###.--+..+.  </text>
+<text x="6" y="160" xml:space="preserve">  .++++++++++++++++++++++++++++++#++++##..##..--++####+------...##.###.--+..+.  </text>
+<text x="6" y="172" xml:space="preserve">  .++++-+++++++++++++++++++++++++#++++##..##.----.-....-----++#+...###.--+-.-.  </text>
+<text x="6" y="184" xml:space="preserve">  .++++++++++++++++++++++++++++++++##++-..+#..-.----+##++######-...###.---+.+.  </text>
+<text x="6" y="196" xml:space="preserve">  .++++-++++++++++++++++++++----+###.+#####+.....########.+...-..#.###..--+.+.  </text>
+<text x="6" y="208" xml:space="preserve">  .+++++++++++++++++++++++--######+-######++###..+....########-..-.###..--+.+.  </text>
+<text x="6" y="220" xml:space="preserve">  .++++++++++++++++++++++-+#####################-######.......####.###.---#.#-  </text>
+<text x="6" y="232" xml:space="preserve">  .+++++++++++++++++++++-#########-.......######+....+########+++..###.-.-#...  </text>
+<text x="6" y="244" xml:space="preserve">  .+++++++++++++++++++++######..............#####-+##--.....-+++-..###-+-.-...  </text>
+<text x="6" y="256" xml:space="preserve">  .+++++++++++++++++++++####-.................####.--#+-+####+.....-#.......+.  </text>
+<text x="6" y="268" xml:space="preserve">  .++++++++++++++++++++-###+..####-..-.-####+.####.+..........-###############  </text>
+<text x="6" y="280" xml:space="preserve">  .++++++#++++++++++++++###+-#...###--###-..+.-###.-+########################.  </text>
+<text x="6" y="292" xml:space="preserve">  .++++++++++++++++++++++##+-####+++..---####.-################+..............  </text>
+<text x="6" y="304" xml:space="preserve">  .+++++++++++++++++++++++##.......-..--.......#-######+........+###########+.  </text>
+<text x="6" y="316" xml:space="preserve">  .++++++#+++++++++++++++-.#-.------...------.+#.#######..######+-........-+##  </text>
+<text x="6" y="328" xml:space="preserve">  .++++++#+++++++++++++++#++#----.+#####.-----#.########-...+#-+#############-  </text>
+<text x="6" y="340" xml:space="preserve">  .++++++#+++++++++++++++##.++---.........---+#++......#-.--.+#####+..........  </text>
+<text x="6" y="352" xml:space="preserve">  .++++++#++++++++++++++++###+-.-+#######+-.-#.........#+.---+#...-+########+.  </text>
+<text x="6" y="364" xml:space="preserve">  .++++++#++++++++++++++++++##-----####+---+#...+----..#+.-++#+-+-..........-.  </text>
+<text x="6" y="376" xml:space="preserve">  .++++++#++++++++++++++++++++##-.........+#-##.+.---..##.---+#.--+######-#-+.  </text>
+<text x="6" y="388" xml:space="preserve">  .++++++#+++++++++++++++++++##-+##+++#####+###.-.-....##.---+--++--.----++++.  </text>
+<text x="6" y="400" xml:space="preserve">  .++++++#+++++++++++++++++####################........##..--++#+.......-++++.  </text>
+<text x="6" y="412" xml:space="preserve">  .++++++#+++++++++++++++###################+####......##.---++++--+-.........  </text>
+<text x="6" y="424" xml:space="preserve">  .++++++#+++++++++++++###################++############+...-++---+-.......--.  </text>
+<text x="6" y="436" xml:space="preserve">  .++++++#+++++++######++++++#############################+...--++#+-++++++++.  </text>
+<text x="6" y="448" xml:space="preserve">  .++++++#++++##############+#++######++##++###################..--------.....  </text>
+<text x="6" y="460" xml:space="preserve">  .+++++###+###++++######+++#++++++++#####+++++##+########+++###+.............  </text>
+<text x="6" y="472" xml:space="preserve">  .++++++###+##++#+#############++++++++++###+++++######++##+################+  </text>
+<text x="6" y="484" xml:space="preserve">  .+++#+###++##++#+##++#++#++#++#################+##########+#+++##........--.  </text>
+<text x="6" y="496" xml:space="preserve">  .+#++++++++##++#+#####++###+##++########+++##++++++##+#++++++##+##..........  </text>
+<text x="6" y="508" xml:space="preserve">  .++++####+++####+++#++#+##+#############+#+##+++++++++#+####################  </text>
+<text x="6" y="520" xml:space="preserve">  -#####++##+++###++++#+##++##+#+############+##++#+++###+++##+##++##.......-.  </text>
+<text x="6" y="532" xml:space="preserve">  -###+##++###++#+###+#######++++###+####++#######+####+++++#####+####........  </text>
+<text x="6" y="544" xml:space="preserve">  -#######+####+#+#####+#++++##########+#++##++#+##########+#+##+##+###+++++-.  </text>
+<text x="6" y="556" xml:space="preserve">  -###++++#+#########+#++++##########+########+##########++##+#++#++####-+###-  </text>
+<text x="6" y="568" xml:space="preserve">  -###+###+++#######++########++####################+########+#+##+#####---...  </text>
+<text x="6" y="580" xml:space="preserve">  -#+##+##+++#++########################+#####################+####+##+######-  </text>
+<text x="6" y="592" xml:space="preserve">  .+++++++####+##################++++++###+#####+############++##+#####+######  </text>
+<text x="6" y="604" xml:space="preserve">  -########-######################++#########################+####+##+####-...  </text>
+<text x="6" y="616" xml:space="preserve">  +++################+++++##################################+####++++++####+-.  </text>
+<text x="6" y="628" xml:space="preserve">  .++++----+###########+++++++++###########################++###++++#########+  </text>
+<text x="6" y="640" xml:space="preserve">  +######################++++###+++#########################++++++++++###+##-.  </text>
+<text x="6" y="652" xml:space="preserve">  +####+--++###-++###########+++###++++++####################++++######+++##..  </text>
+<text x="6" y="664" xml:space="preserve">  .+#####+######+++++###########+####+++++++########################+++###+#-.  </text>
+<text x="6" y="676" xml:space="preserve">  .+--+#########+---...--.......-..-------....------++++++#++##+-...----+###-.  </text>
+<text x="6" y="688" xml:space="preserve"> </text>
+<text x="6" y="700" xml:space="preserve"> </text>
+</g>
+<g font-family="'Courier New',Courier,monospace" font-size="10">
+<text x="455" y="16.0" fill="#c9d1d9" xml:space="preserve">xurshidbahromov@github  ─────────────────────────────────</text>
+<text x="455" y="31.5" fill="#c9d1d9" xml:space="preserve"> </text>
+<text x="455" y="47.0" fill="#c9d1d9" xml:space="preserve">  OS        macOS  ·  Ubuntu 22.04 LTS</text>
+<text x="455" y="62.5" fill="#c9d1d9" xml:space="preserve">  Uptime    19 years,  coding since 2016</text>
+<text x="455" y="78.0" fill="#c9d1d9" xml:space="preserve">  Host      Full Stack  ·  Software  ·  AI Engineer</text>
+<text x="455" y="93.5" fill="#c9d1d9" xml:space="preserve">  Kernel    JavaScript  /  TypeScript 5.x</text>
+<text x="455" y="109.0" fill="#c9d1d9" xml:space="preserve">  Shell     zsh  +  oh-my-zsh</text>
+<text x="455" y="124.5" fill="#c9d1d9" xml:space="preserve">  IDE       VS Code 1.96</text>
+<text x="455" y="140.0" fill="#c9d1d9" xml:space="preserve">  GPA       3.8 / 4.0   (INHA University, 2024–2029)</text>
+<text x="455" y="155.5" fill="#58a6ff" xml:space="preserve">  Status    [ ● OPEN TO OPPORTUNITIES ]</text>
+<text x="455" y="171.0" fill="#c9d1d9" xml:space="preserve"> </text>
+<text x="455" y="186.5" fill="#8b949e" xml:space="preserve">─ Languages.Programming ────────────────────────────────────</text>
+<text x="455" y="202.0" fill="#c9d1d9" xml:space="preserve"> </text>
+<text x="455" y="217.5" fill="#c9d1d9" xml:space="preserve">  JS / TS    ████████████░░░  85%</text>
+<text x="455" y="233.0" fill="#c9d1d9" xml:space="preserve">  Python     ████████░░░░░░░  60%</text>
+<text x="455" y="248.5" fill="#c9d1d9" xml:space="preserve">  React      █████████████░░  85%</text>
+<text x="455" y="264.0" fill="#c9d1d9" xml:space="preserve">  CSS        █████████░░░░░░  65%</text>
+<text x="455" y="279.5" fill="#c9d1d9" xml:space="preserve"> </text>
+<text x="455" y="295.0" fill="#8b949e" xml:space="preserve">─ Languages.Stack ─────────────────────────────────────────</text>
+<text x="455" y="310.5" fill="#c9d1d9" xml:space="preserve"> </text>
+<text x="455" y="326.0" fill="#c9d1d9" xml:space="preserve">  Frontend    React  ·  Next.js  ·  TypeScript  ·  Tailwind</text>
+<text x="455" y="341.5" fill="#c9d1d9" xml:space="preserve">  Backend     Python  ·  FastAPI  ·  Node.js  ·  REST</text>
+<text x="455" y="357.0" fill="#c9d1d9" xml:space="preserve">  AI / ML     LangChain  ·  OpenAI API  ·  HuggingFace</text>
+<text x="455" y="372.5" fill="#c9d1d9" xml:space="preserve">  Database    PostgreSQL  ·  MongoDB  ·  Redis</text>
+<text x="455" y="388.0" fill="#c9d1d9" xml:space="preserve">  DevOps      Git  ·  Docker  ·  Vercel  ·  GitHub Actions</text>
+<text x="455" y="403.5" fill="#c9d1d9" xml:space="preserve"> </text>
+<text x="455" y="419.0" fill="#8b949e" xml:space="preserve">─ Projects ────────────────────────────────────────────────</text>
+<text x="455" y="434.5" fill="#c9d1d9" xml:space="preserve"> </text>
+<text x="455" y="450.0" fill="#c9d1d9" xml:space="preserve">  iNazarot       AI-powered ERP Platform</text>
+<text x="455" y="465.5" fill="#8b949e" xml:space="preserve">                 i-nazarot.vercel.app</text>
+<text x="455" y="481.0" fill="#c9d1d9" xml:space="preserve">  Bobur Academy  Education Platform + Telegram Bot</text>
+<text x="455" y="496.5" fill="#8b949e" xml:space="preserve">                 bobur-mentor-academy.vercel.app</text>
+<text x="455" y="512.0" fill="#c9d1d9" xml:space="preserve">  Prism IT       Corporate Website</text>
+<text x="455" y="527.5" fill="#c9d1d9" xml:space="preserve">  Promax Edu     Education Management System</text>
+<text x="455" y="543.0" fill="#c9d1d9" xml:space="preserve">  CoForge        AI Career Accelerator</text>
+<text x="455" y="558.5" fill="#c9d1d9" xml:space="preserve"> </text>
+<text x="455" y="574.0" fill="#8b949e" xml:space="preserve">─ Contact ─────────────────────────────────────────────────</text>
+<text x="455" y="589.5" fill="#c9d1d9" xml:space="preserve"> </text>
+<text x="455" y="605.0" fill="#c9d1d9" xml:space="preserve">  Email       xurshidbahromov06@gmail.com</text>
+<text x="455" y="620.5" fill="#c9d1d9" xml:space="preserve">  Phone       +998 94 101 26 80</text>
+<text x="455" y="636.0" fill="#c9d1d9" xml:space="preserve">  LinkedIn    linkedin.com/in/xurshid-bahromov</text>
+<text x="455" y="651.5" fill="#c9d1d9" xml:space="preserve">  Telegram    t.me/xurshidbahromov</text>
+<text x="455" y="667.0" fill="#c9d1d9" xml:space="preserve">  Portfolio   xurshidbahromov.github.io</text>
+<text x="455" y="682.5" fill="#c9d1d9" xml:space="preserve">  Location    Tashkent, Uzbekistan</text>
 </g>
 </svg>

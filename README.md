@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&pause=1000&color=c9d1d9&center=true&vCenter=true&width=500&lines=khurshid%40github%3A~%24+Initializing+workspace...;khurshid%40github%3A~%24+Loading+skills...;khurshid%40github%3A~%24+Accessing+projects+database...;khurshid%40github%3A~%24+Ready+to+collaborate!" alt="Typing SVG" />
+</div>
+
 ```shell
 khurshid@github:~$ whoami
 ─────────────────────────────────────────────────────────────────────────────────────
@@ -56,6 +60,12 @@ khurshid@github:~$ cat contact.json
 
 <br>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=xurshidbahromov&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="Khurshid's GitHub Trophies" />
+</div>
+
+<br>
+
 ```shell
 khurshid@github:~$ github-stats --live
 ```
@@ -81,4 +91,18 @@ khurshid@github:~$ github-stats --live
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=xurshidbahromov&label=visitors&color=30363d&style=flat-square" />
+</div>
+
+<br>
+
+```shell
+khurshid@github:~$ ./generate_snake.sh
+```
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xurshidbahromov/xurshidbahromov/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xurshidbahromov/xurshidbahromov/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xurshidbahromov/xurshidbahromov/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
 </div>

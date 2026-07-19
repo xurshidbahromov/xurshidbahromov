@@ -49,7 +49,7 @@ khurshid@github:~$ cat contact.json
 
 <div align="center">
   <a href="mailto:xurshidbahromov06@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=232830" alt="Email" /></a>
-  <a href="https://linkedin.com/in/xurshid-bahromov"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=232830" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/xurshid-bahromov"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logoColor=white&labelColor=232830&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xOSAwaC0xNGMtMi43NjEgMC01IDIuMjM5LTUgNXYxNGMwIDIuNzYxIDIuMjM5IDUgNSA1aDE0YzIuNzYyIDAgNS0yLjIzOSA1LTV2LTE0YzAtMi43NjEtMi4yMzgtNS01LTV6bS0xMSAxOWgtM3YtMTFoM3YxMXptLTEuNS0xMi4yNjhjLS45NjYgMC0xLjc1LS43OS0xLjc1LTEuNzY0cy43ODQtMS43NjQgMS43NS0xLjc2NCAxLjc1Ljc5IDEuNzUgMS43NjQtLjc4MyAxLjc2NC0xLjc1IDEuNzY0em0xMy41IDEyLjI2OGgtM3YtNS42MDRjMC0zLjM2OC00LTMuMTEzLTQgMHY1LjYwNGgtM3YtMTFoM3YxLjc2NWMxLjM5Ni0yLjU4NiA3LTIuNzc3IDcgMi40NzZ2Ni43NTl6Ii8+PC9zdmc+" alt="LinkedIn" /></a>
   <a href="https://t.me/xurshidbahromov"><img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=white&labelColor=232830" alt="Telegram" /></a>
   <a href="https://xurshidbahromov.github.io"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=232830" alt="Portfolio" /></a>
 </div>

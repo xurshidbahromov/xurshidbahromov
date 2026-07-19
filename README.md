@@ -48,10 +48,10 @@ khurshid@github:~$ cat contact.json
 ```
 
 <div align="center">
-  <a href="mailto:xurshidbahromov06@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=c9d1d9&labelColor=232830" alt="Email" /></a>
-  <a href="https://linkedin.com/in/xurshid-bahromov"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=c9d1d9&labelColor=232830" alt="LinkedIn" /></a>
-  <a href="https://t.me/xurshidbahromov"><img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=c9d1d9&labelColor=232830" alt="Telegram" /></a>
-  <a href="https://xurshidbahromov.github.io"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=github&logoColor=c9d1d9&labelColor=232830" alt="Portfolio" /></a>
+  <a href="mailto:xurshidbahromov06@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=232830" alt="Email" /></a>
+  <a href="https://linkedin.com/in/xurshid-bahromov"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=232830" alt="LinkedIn" /></a>
+  <a href="https://t.me/xurshidbahromov"><img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=white&labelColor=232830" alt="Telegram" /></a>
+  <a href="https://xurshidbahromov.github.io"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=232830" alt="Portfolio" /></a>
 </div>
 
 <br>

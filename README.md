@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&pause=1000&color=c9d1d9&center=true&vCenter=true&width=500&lines=khurshid%40github%3A~%24+Initializing+workspace...;khurshid%40github%3A~%24+Loading+skills...;khurshid%40github%3A~%24+Accessing+projects+database...;khurshid%40github%3A~%24+Ready+to+collaborate!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=c9d1d9&center=true&vCenter=true&width=500&lines=khurshid%40github%3A~%24+Initializing+workspace...;khurshid%40github%3A~%24+Loading+skills...;khurshid%40github%3A~%24+Accessing+projects+database...;khurshid%40github%3A~%24+Ready+to+collaborate!" alt="Typing SVG" />
 </div>
 
 ```shell
@@ -72,8 +72,8 @@ khurshid@github:~$ github-stats --live
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xurshidbahromov&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=8b949e&text_color=8b949e&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xurshidbahromov&layout=compact&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&langs_count=5" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=xurshidbahromov&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=8b949e&text_color=8b949e&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xurshidbahromov&layout=compact&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&langs_count=5" />
 </div>
 
 <br>
@@ -96,8 +96,8 @@ khurshid@github:~$ ./generate_snake.sh
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xurshidbahromov/xurshidbahromov/output/github-contribution-grid-snake-dark.svg?v=1">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xurshidbahromov/xurshidbahromov/output/github-contribution-grid-snake.svg?v=1">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xurshidbahromov/xurshidbahromov/output/github-contribution-grid-snake-dark.svg?v=1" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xurshidbahromov/xurshidbahromov/output/github-contribution-grid-snake-dark.svg?v=3">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xurshidbahromov/xurshidbahromov/output/github-contribution-grid-snake.svg?v=3">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xurshidbahromov/xurshidbahromov/output/github-contribution-grid-snake-dark.svg?v=3" width="100%">
   </picture>
 </div>

@@ -29,7 +29,13 @@ jobs:
 
       - name: Slow down the Snake
         run: |
-          python3 -c "import re; [open(f, 'w').write(re.sub(r'[0-9]+ms', '240000ms', open(f).read())) for f in ['dist/github-contribution-grid-snake.svg', 'dist/github-contribution-grid-snake-dark.svg']]"
+          python3 -c "
+          import re
+          for f in ['dist/github-contribution-grid-snake.svg', 'dist/github-contribution-grid-snake-dark.svg']:
+              content = open(f, 'r').read()
+              with open(f, 'w') as out:
+                  out.write(re.sub(r'[0-9]+ms', '240000ms', content))
+          "
 
       - name: Push to branch
         uses: crazy-max/ghaction-github-pages@v3.1.0

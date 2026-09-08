@@ -72,8 +72,8 @@ khurshid@github:~$ github-stats --live
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=xurshidbahromov&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=8b949e&text_color=8b949e&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xurshidbahromov&layout=compact&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&langs_count=5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xurshidbahromov&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xurshidbahromov&theme=github_dark" />
 </div>
 
 <br>
